@@ -1,4 +1,4 @@
 ServiceOrder
 ============
 
-Android Service Orders Application
+Приложение ваш персональный мастер
